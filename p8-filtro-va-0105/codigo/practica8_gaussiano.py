@@ -31,3 +31,5 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+
+print("Iker Montoya 0105")
